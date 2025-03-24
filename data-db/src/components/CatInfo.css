@@ -1,0 +1,18 @@
+.catInfo-div {
+    display: flex;
+    width: 80%;
+    margin: 20px auto 0;
+    /* Adjust as needed */
+    padding: 10px;
+    background-color: rgba(0, 21, 143, 0.1);
+    /* Add a background color */
+    border: 1px solid #ccc;
+    /* Add a border */
+    border-radius: 8px;
+    /* Optional: Add border-radius for rounded corners */
+    text-align: left;
+}
+
+.catInfo-text {
+    padding: 0 20px 0;
+}
